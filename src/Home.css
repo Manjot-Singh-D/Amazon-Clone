@@ -2,6 +2,13 @@
   max-width: 1500px;
   margin-right: auto;
   margin-left: auto;
+  font-family: cursive;
+}
+.home__row {
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .home__image {
   width: 100%;
